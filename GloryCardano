@@ -1,0 +1,11 @@
+{
+    "project": "GloryCardano",
+    "tags" : [
+       "GloryCardano"
+     ], 
+    "policies": [
+        "7332d1b565272aab7dfcb804c0c565e4631987f7c1a3c2bb5b33c45c",
+        "6a26a003e90bf33381f53efba9b2de02e1c2633ff18536151fc021c2",
+        "c15180548d7b66da40e834ba57c3933d71d1aaa6b1a4e8d0e69905ed"
+    ]
+}
